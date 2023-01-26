@@ -6,7 +6,7 @@ export default function Joining() {
         <div className="joining">
             <div className="joining-left">
                 <div className="imgContainer">
-                    <img src="assets/boy-removebg.png" alt="" />
+                    
                 </div>
             </div>
             <div className="joining-right">

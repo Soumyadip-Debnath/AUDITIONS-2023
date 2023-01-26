@@ -10,6 +10,8 @@
     background: linear-gradient(#1d0379, #120736);
     border-radius: 10%;
 
+
+
     .joining-left {
         width: 50%;
         height: 100%;
@@ -41,5 +43,13 @@
         p {
             margin-right: 20px;
         }
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    .joining {
+        border-radius: 0%;
+        
     }
 }

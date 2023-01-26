@@ -9,19 +9,20 @@ export default function Intro() {
 
             <div className="intro-left">
                 <div className="left-container">
-                    <div className="heading">
-
-                        <span className="title"><h2>INDIAN SOCIETY FOR TECHNICAL EDUCATION</h2></span>
-
-                        <br />
-                        <p>The Indian Society for Technical Education (ISTE) is the leading National Professional non-profit making Society for the Technical Education System in our country with the motto of Career Development of Teachers and Personality Development of Students and overall development of our Technical Education System operating in association with All India Council for Technical Education (AICTE) and other International Projects.</p>
+                    <div className="container">
+                        <div class="p p1">ISTE AUDITIONS 2023</div>
+                        <div class="p p2">ISTE AUDITIONS 2023</div>
+                        <div class="p p3">
+                            ISTE AUDITIONS 2023
+                            <div class="cursor"></div>
+                        </div>
                     </div>
                 </div>
 
             </div>
             <div className="intro-right">
                 <div className="imgContainer">
-                    <img src="assets/collage-removed-bg.png" alt="" />
+
                 </div>
             </div>
         </div>
